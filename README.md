@@ -2,7 +2,9 @@
 
 My First Program in C language
 
-# 💫 How I setup VSCode for C language
+# 💫 How to setup VSCode for C language
+
+    ▶️(Write and Run the code)
 
 Install C/C++ extension for VSCode: Open VSCode and go to the Extensions view by clicking on the Extensions icon on the left-hand side of the window or by pressing Command+Shift+X on your keyboard. Search for "C/C++" in the search bar and click "Install" on the extension with the same name. This extension provides C/C++ language support for VSCode.
 
